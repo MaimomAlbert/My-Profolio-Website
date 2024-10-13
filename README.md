@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
@@ -74,3 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 =======
 # My-Profolio-Websie
 >>>>>>> 8ab80b7623450bc0f651c5724776f4d1a8358f1e
+=======
+# My-Profolio-Website
+>>>>>>> d58edc6e04267acfd805d77512ae033f1ffda314
