@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
@@ -70,3 +71,6 @@ To view a live example, **[click here](https://varadbhogayata.github.io/)**
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+=======
+# My-Profolio-Websie
+>>>>>>> 8ab80b7623450bc0f651c5724776f4d1a8358f1e
